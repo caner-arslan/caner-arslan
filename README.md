@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Caner!
 - 🌱 I’m currently attending CS50’s Introduction to Computer Science online.
+- 📍 From Istanbul, Turkiye
 - 📫 caner@forivia.com is where you can reach me.
 
 <!---
